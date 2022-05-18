@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Untitled Folder</folder>
+  <filename>IP022001499</filename>
+  <path>F:\Untitled Folder\IP022001499.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>350</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>22</name>
+    <pose>Unspecified</pose>
+    <truncated>1</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>84</xmin>
+      <ymin>120</ymin>
+      <xmax>469</xmax>
+      <ymax>350</ymax>
+    </bndbox>
+  </object>
+</annotation>

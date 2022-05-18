@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>IP103_final_new2</folder>
+  <filename>IP042000075</filename>
+  <path>C:\Users\24740\Desktop\IP103_final_new2\IP042000075.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2407</width>
+    <height>1806</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>41</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>588</xmin>
+      <ymin>189</ymin>
+      <xmax>1954</xmax>
+      <ymax>1492</ymax>
+    </bndbox>
+  </object>
+</annotation>

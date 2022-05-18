@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>IP103_final_new3</folder>
+  <filename>IP059001076</filename>
+  <path>C:\Users\Kunimitsu Tezuka\Desktop\IP103_final_new3\IP059001076.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1300</width>
+    <height>958</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>58</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>80</xmin>
+      <ymin>179</ymin>
+      <xmax>1224</xmax>
+      <ymax>762</ymax>
+    </bndbox>
+  </object>
+</annotation>

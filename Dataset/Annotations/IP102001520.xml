@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>IP103_final_new4</folder>
+  <filename>IP102001520</filename>
+  <path>/home/ubuntu3/Desktop/IP103_final_new4/IP102001520.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>396</width>
+    <height>427</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>101</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>40</xmin>
+      <ymin>47</ymin>
+      <xmax>336</xmax>
+      <ymax>392</ymax>
+    </bndbox>
+  </object>
+</annotation>

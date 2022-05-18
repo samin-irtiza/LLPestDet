@@ -1,0 +1,38 @@
+<annotation verified="no">
+  <folder>Untitled Folder</folder>
+  <filename>IP022000397</filename>
+  <path>F:\Untitled Folder\IP022000397.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1800</width>
+    <height>1200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>22</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>266</xmin>
+      <ymin>219</ymin>
+      <xmax>799</xmax>
+      <ymax>976</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>22</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1025</xmin>
+      <ymin>180</ymin>
+      <xmax>1679</xmax>
+      <ymax>951</ymax>
+    </bndbox>
+  </object>
+</annotation>

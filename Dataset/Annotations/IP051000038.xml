@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>Untitled Folder</folder>
+  <filename>IP051000038</filename>
+  <path>F:\Untitled Folder\IP051000038.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>163</width>
+    <height>235</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>50</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>44</xmin>
+      <ymin>76</ymin>
+      <xmax>125</xmax>
+      <ymax>206</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>IP103_final_new3</folder>
+  <filename>IP071003866</filename>
+  <path>C:\Users\dell\Desktop\IP103_final_new3\IP071003866.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>581</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>70</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>42</xmin>
+      <ymin>144</ymin>
+      <xmax>551</xmax>
+      <ymax>714</ymax>
+    </bndbox>
+  </object>
+</annotation>

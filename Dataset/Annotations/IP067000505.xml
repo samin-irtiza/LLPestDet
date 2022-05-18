@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>&#26032;&#24314;&#25991;&#20214;&#22841;</folder>
+  <filename>IP067000505</filename>
+  <path>C:\Users\11202\Desktop\&#26032;&#24314;&#25991;&#20214;&#22841;\IP067000505.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>6034</width>
+    <height>6953</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>66</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>220</xmin>
+      <ymin>176</ymin>
+      <xmax>5743</xmax>
+      <ymax>3938</ymax>
+    </bndbox>
+  </object>
+</annotation>

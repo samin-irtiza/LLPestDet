@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IP103_final_new1</folder>
+	<filename>IP017000072.jpg</filename>
+	<path>/home/ubuntu2/Desktop/IP103_final_new1/IP017000072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>316</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>17</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>43</ymin>
+			<xmax>297</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
